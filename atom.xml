@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-08T06:52:23.342Z</updated>
+  <updated>2019-03-08T12:29:17.641Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx-重载/热部署/日志切割</title>
+    <link href="http://yoursite.com/2019/03/08/nginx-two/"/>
+    <id>http://yoursite.com/2019/03/08/nginx-two/</id>
+    <published>2019-03-08T12:23:22.000Z</published>
+    <updated>2019-03-08T12:29:17.641Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="学习心得" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/"/>
+    
+    
+      <category term="Nginx" scheme="http://yoursite.com/tags/Nginx/"/>
+    
+  </entry>
   
   <entry>
     <title>Ubuntu16.04编译安装Nginx</title>
